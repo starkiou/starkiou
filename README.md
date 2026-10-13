@@ -4,7 +4,7 @@
 
 ## 🎮 Jeux
 
-**[Bomber-Man](https://github.com/starkiou/Bomber-Man)** : un Bomberman multijoueur en Java et JavaFX, réalisé en équipe pendant le BUT. Le serveur fait autorité et tourne à 60 ticks par seconde, les labyrinthes sont générés à chaque partie. J'ai écrit les entités du jeu (joueur, bombes, collisions, explosions) et les bots, qui trouvent leur chemin par parcours en largeur.
+**[Bomber-Man](https://github.com/starkiou/Bomber-Man)** : un Bomberman multijoueur en Java et JavaFX, réalisé en équipe pendant le BUT. J'y ai écrit les entités du jeu (joueur, bombes, collisions, explosions) et les bots, qui trouvent leur chemin par parcours en largeur. Après le rendu, j'ai repris le projet pour l'auditer : la partie est maintenant simulée par le serveur à 60 ticks par seconde, alors qu'avant chaque joueur simulait la sienne et que les écrans divergeaient.
 
 **[Pong](https://github.com/starkiou/pong)** : un Pong en solo, façon squash, sur canvas et en JavaScript vanilla. [▶️ Jouer en ligne](https://starkiou.github.io/pong/)
 
