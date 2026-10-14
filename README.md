@@ -12,6 +12,8 @@
 
 ## 🌐 Projets web
 
+**[Medication Reminder](https://github.com/starkiou/medication-reminder)** : une application de rappel de prise que j'ai écrite seul pour un proche, et qui sert tous les jours depuis l'été 2026. Installable sur téléphone, notifications push chaque soir, API serverless sur Vercel et base Supabase, accès protégé et 64 tests.
+
 **[OnlyStages](https://github.com/starkiou/OnlyStages)** : un outil de recherche d'entreprises et de gestion de stages en PHP et MySQL, réalisé en équipe. Je me suis occupé de toute la partie import.
 
 **[Anime Requester](https://github.com/starkiou/Anime_Requester)** : un outil de recherche d'animes en JavaScript vanilla, réalisé à trois. Je me suis occupé de la partie API.
